@@ -587,3 +587,6 @@ git diff origin/master
 
 # merging
 git merge origin/master
+
+## Git pull
+git pull origin
