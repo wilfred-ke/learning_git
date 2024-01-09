@@ -6,3 +6,5 @@ without having to travel over and over again.
 This system allows each tenant to login to website and check their details including payment details
 regarding the house they stay at.
 
+### notifications
+This system notify tenants when their rent is due or if they have pending balances and other changes implemented
