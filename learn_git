@@ -571,3 +571,19 @@ Switched to a new branch 'emergency-fix'
 
 ADMIN@DESKTOP-KGM478O MINGW64 ~/real_estate_management_system (emergency-fix)
 $
+
+## working with github
+git remote add origin 'url'
+git push --set-upstream origin master
+
+### git pull from github
+pull is a combination of fetch and merge
+-git fetch origin
+-git status
+-git log origin/master
+
+# showing difference between our local master and origin master
+git diff origin/master
+
+# merging
+git merge origin/master
